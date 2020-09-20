@@ -64,6 +64,7 @@ EmboDIYing Disruption: Queer, Feminist and Inclusive Digital Archaeologies
     Often forced to choose between the long-term, abstract risk of doing nothing (and, therefore, nothing ever changing for the better) and the immediate and often personal risk of trying to confront the system, the individuals leading the charge of these movements, in the name of equity, security, and inclusivity, face harassment, abuse, suspicion, imprisonment, and violence. This has been part of the growing critique of positive thinking, this ‘mass delusion’ (Ehrenreich, 2010: 13) centred on personal responsibility, where hard work leads to success and poor choices lead to failure, rather than recognizing the true force and pervasiveness of underlying structural conditions (Halberstam, 2011).
     This is perhaps the greatest flaw in transhuman and posthuman philosophies: the unflinching commitment to technology and science to evolve beyond human conflicts and limitations fails to protect humans now, risking the creation of greater fissures rather than making progress. The digital has reformulated the ways in which we engage with the past and produce knowledge in the present, but we have taken many steps backward much faster than the individuals cited above (and many others) have clawed their way forward to envision the past in new ways through creativity, making, and inclusivity.
     
-
+https://via.hypothes.is/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9213F22B1FA891D11262BE3F49376C0E/S2326376800000486a.pdf/cocreations_role_in_digital_public_archaeology.pdf
+Co-Creation’s Role in Digital Public Archaeology
 
 
