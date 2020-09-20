@@ -40,7 +40,7 @@ An Introduction to Digital Archaeology - ODATE
         -"Revisiting science and art: which is more ecological now? Why is art leading the way in promoting radical ecological awareness? The goals of today’s science are modelling, prediction and control. Is that why we turn to art to rediscover the humility that science has lost?" -From Science to Art and Back Again : The Pendulum of an Anthropologist.
 
 https://digiarch.netlify.app/data/Canadian_Digital_Archaeology_On_Boundari.pdf
-Canadian Digital Archaeology: On Boundaries and Futures.
+Canadian Digital Archaeology: On Boundaries and Futures. (this one didnt save in zotero)
 
     If archaeological materials are excavated but never published, studied but never made available, conserved but never repatriated…. what is archaeology for? -Graham
     digital archeology has a lot of the same ethical issues as tech and academia generally
