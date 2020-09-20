@@ -45,6 +45,16 @@ Canadian Digital Archaeology: On Boundaries and Futures.
     If archaeological materials are excavated but never published, studied but never made available, conserved but never repatriated…. what is archaeology for? -Graham
     digital archeology has a lot of the same ethical issues as tech and academia generally
 
+https://via.hypothes.is/https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/embodiying-disruption-queer-feminist-and-inclusive-digital-archaeologies/2D0B1F0D892CACE6782FC11EF46548BA/core-reader
+EmboDIYing Disruption: Queer, Feminist and Inclusive Digital Archaeologies
+
+    Digital technologies (especially the Web) were sold to us as democratizing tools that would transform the inequities inherent in communications, research, and institutional structures. When the shortcomings started to become visible, risk and danger were marketed to us as part of what everyone goes through to create good research and art, to innovate, to be successful. But that was not true either: some people are forced to take on more risk than others. 
+        -the internet doesn't negate privledge, just makes it harder to see
+    This paper will trace the ways in which queer, feminist1, and more broadly inclusive disruptions of traditional forms of communication, values of objectivity, and gate-keeping of knowledge increasingly draw on creative uses of digital and hybrid platforms, taking on many of the goals of transhumanism and posthumanism to unlearn, unmake, unbecome traditional social structures and restrictive identities.
+        -where does this unlearning discourse come from? it sounds like it could be a potentially undialectical approach
+    ‘Failing is something queers do and have always done exceptionally well.’ The sheer impossibility of ‘succeeding’ through normative models can push these ‘unconventional’ scholars to take greater risks because they already occupy uncharted territory and, therefore, by default take unconventional ‘Do-It-Yourself’ approaches, which in turn blaze a trail for more conventional scholarship to follow (Halberstam, 2011: 6). These ‘rogue intellectuals’ are also more likely to recognize and react to heteronormative representations of the past and fight for inclusive interpretative paradigms.
+    it is no stretch to say that feminism in archaeology is multi-dimensional, multi-scalar, and multi-directional. It includes, but is not limited to, making women visible in the past, exploring gender and sexuality, making the discipline more equitable and less exploitative (Wylie, 2001; Conkey, 2003: 867–68; Battle-Baptiste, 2011) as well as using archaeology as broader political action (Wylie, 1997: 84–85). Constantly evolving, ebbing, flowing, and re-evaluating theory and practice, the position of feminism in archaeology is also ever in flux, as is its potential to influence broader discourse, methodologies, and theory.
+    
 
 
 
