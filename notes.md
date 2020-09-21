@@ -67,4 +67,17 @@ EmboDIYing Disruption: Queer, Feminist and Inclusive Digital Archaeologies
 https://via.hypothes.is/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9213F22B1FA891D11262BE3F49376C0E/S2326376800000486a.pdf/cocreations_role_in_digital_public_archaeology.pdf
 Co-Creation’s Role in Digital Public Archaeology
 
-    
+    The concept of co-creation as defined by Simon (2010:187) describes a process of collaboration in which individuals or institutions (in this case, archaeologists or archaeological organizations) work with non-specialist communities (e.g., descendant communities, local communities, etc.) to create programs or projects that address the communities’ expressed needs and interests.
+        -this raises for me a question: what is the goal of archaeology generally? the argument has been made that it was origionally used in order to justify colonialism. if it is true that we have moved past that, what is its goal now? if the goal involves responding to the a community's needs and interests, what are those needs and interests?
+    When engaging in co-creative processes, archaeologists must be ready to share power and authority to create something that meets their own goals and those of their community partners.
+    The Digital Engagement Spectrum is a continuum but has four major levels (Figure 1). 
+        1. The first consists of publicizing to a wider audience. This type of engagement can disseminate information to a large audience but does not necessarily create a great deal of two-way interaction. 
+        2.
+
+
+
+
+
+
+
+
